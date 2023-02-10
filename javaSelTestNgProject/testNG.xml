@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="utilities.Listeners"></listener>
+    </listeners>
+    <test name="FirstTest" >
+        <classes>
+            <class name="testClasses.StandAloneTest">
+<!--                <methods>-->
+<!--                    <include name="createNewUser"/>-->
+<!--                    <include name="userLogin"/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+<!--    <test  name="SecondTest">-->
+<!--        <classes>-->
+<!--            <class name="testClasses.StandAloneTest2"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+    <!-- Test -->
+</suite><!-- Test -->

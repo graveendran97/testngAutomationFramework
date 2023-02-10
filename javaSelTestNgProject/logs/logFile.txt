@@ -1,0 +1,760 @@
+Log ->>> 09-02-2023 19-14-53 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-15-02 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-15-02 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-14-53 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-15-22 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-15-22 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-15-27 [ INFO ] New values are entered to update profile
+Log ->>> 09-02-2023 19-15-27 [ INFO ] Profile Updated
+Log ->>> 09-02-2023 19-14-53 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-14-53 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-17-41 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-17-50 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-17-50 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-18-43 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-18-53 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-18-53 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-18-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-19-13 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-19-13 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-19-18 [ INFO ] New values are entered to update profile
+Log ->>> 09-02-2023 19-19-18 [ INFO ] Profile Updated
+Log ->>> 09-02-2023 19-18-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-18-43 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-19-41 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-19-51 [ INFO ] Register button was clicked
+Log ->>> 09-02-2023 19-19-41 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-20-15 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-20-15 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-19-41 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-20-35 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-20-35 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-20-40 [ INFO ] New values are entered to update profile
+Log ->>> 09-02-2023 19-20-40 [ INFO ] Profile Updated
+Log ->>> 09-02-2023 19-19-41 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-19-41 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-27-43 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-27-53 [ INFO ] Register button was clicked
+Log ->>> 09-02-2023 19-28-00 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-28-00 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-28-08 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-28-08 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-28-14 [ INFO ] New values are entered to update profile
+Log ->>> 09-02-2023 19-28-14 [ INFO ] Profile Updated
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-28-21 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-28-21 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-28-35 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-28-35 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-29-01 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-29-01 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-29-15 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-29-15 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-29-28 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-29-28 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-27-43 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-34-37 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-34-47 [ INFO ] Register button was clicked
+Log ->>> 09-02-2023 19-34-53 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-34-53 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-35-01 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-35-01 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-35-07 [ INFO ] New values are entered to update profile
+Log ->>> 09-02-2023 19-35-07 [ INFO ] Profile Updated
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-35-14 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-35-14 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-35-28 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-35-28 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-35-53 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-35-53 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-36-07 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-36-07 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-36-20 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-36-20 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-34-37 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-41-01 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-41-11 [ INFO ] Register button was clicked
+Log ->>> 09-02-2023 19-41-18 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-41-18 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-41-27 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-41-27 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-32 [ INFO ] New values are entered to update profile
+Log ->>> 09-02-2023 19-41-32 [ INFO ] Profile Updated
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-41-40 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-41-40 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-41-53 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-41-53 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-42-19 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-42-19 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-42-33 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-42-33 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-42-46 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-42-46 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-41-01 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-45-07 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-45-07 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-46-18 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-46-28 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-46-28 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-46-18 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-46-18 [ INFO ] End of the Test Run
+
+
+Log ->>> 09-02-2023 19-47-13 [ INFO ] Start of new test run
+
+
+Log ->>> 09-02-2023 19-47-22 [ INFO ] Username and password was entered
+Log ->>> 09-02-2023 19-47-22 [ INFO ] Login Button was clicked
+Log ->>> 09-02-2023 19-47-13 [ INFO ] End of Test
+
+Log ->>> 09-02-2023 19-47-13 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 10-49-32 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 10-49-43 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 10-49-45 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 10-49-45 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 10-49-53 [ INFO ] User has logged out
+Log ->>> 10-02-2023 10-49-32 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 10-49-32 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-11-32 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-11-41 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-11-41 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-11-47 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-11-32 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-11-32 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-20-42 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-20-52 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 11-20-57 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 11-20-57 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 11-21-03 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-20-42 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-20-42 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-23-49 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-24-00 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-24-00 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-23-49 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-25-00 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-25-08 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-25-16 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-25-16 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-25-08 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-26-14 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-26-24 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-26-24 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-26-30 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-26-14 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-26-14 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-30-14 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-30-22 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-30-32 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 11-30-34 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 11-30-34 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 11-30-40 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-30-43 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-30-43 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-30-49 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-30-52 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-30-52 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-30-57 [ INFO ] User has clicked Update profile menu button
+Log ->>> 10-02-2023 11-30-57 [ INFO ] New values are entered to update profile
+Log ->>> 10-02-2023 11-30-57 [ INFO ] Profile Updated
+Log ->>> 10-02-2023 11-31-02 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-31-05 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-31-05 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-31-10 [ INFO ] User has clicked Open Account menu button
+Log ->>> 10-02-2023 11-31-11 [ INFO ] Account Type is selected
+Log ->>> 10-02-2023 11-31-11 [ INFO ] User has opened new savings account
+Log ->>> 10-02-2023 11-31-16 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-31-19 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-31-19 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-31-24 [ INFO ] User has clicked Transfer Funds menu button
+Log ->>> 10-02-2023 11-31-36 [ INFO ] Transfer Amount is entered
+Log ->>> 10-02-2023 11-31-36 [ INFO ] Account is selected
+Log ->>> 10-02-2023 11-31-36 [ INFO ] Transfer Funds is Complete
+Log ->>> 10-02-2023 11-31-42 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-31-45 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-31-45 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-31-50 [ INFO ] User has clicked Pay Bill menu button
+Log ->>> 10-02-2023 11-31-50 [ INFO ] Payee Details are entered
+Log ->>> 10-02-2023 11-31-50 [ INFO ] Bill payment was successful
+Log ->>> 10-02-2023 11-31-55 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-31-58 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-31-58 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-32-04 [ INFO ] User has clicked Request Loan menu button
+Log ->>> 10-02-2023 11-32-04 [ INFO ] Loan Amount and down payment amount is entered
+Log ->>> 10-02-2023 11-32-19 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-30-22 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 11-47-37 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 11-47-47 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 11-47-49 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 11-47-49 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 11-47-55 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-47-58 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 11-47-58 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-48-03 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 11-48-14 [ INFO ] User has clicked Update profile menu button
+Log ->>> 10-02-2023 11-48-14 [ INFO ] New values are entered to update profile
+Log ->>> 10-02-2023 11-48-14 [ INFO ] Profile Updated
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-48-19 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 11-48-29 [ INFO ] User has clicked Open Account menu button
+Log ->>> 10-02-2023 11-48-29 [ INFO ] Account Type is selected
+Log ->>> 10-02-2023 11-48-29 [ INFO ] User has opened new savings account
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-48-35 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 11-48-45 [ INFO ] User has clicked Transfer Funds menu button
+Log ->>> 10-02-2023 11-48-57 [ INFO ] Transfer Amount is entered
+Log ->>> 10-02-2023 11-48-57 [ INFO ] Account is selected
+Log ->>> 10-02-2023 11-48-57 [ INFO ] Transfer Funds is Complete
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-49-03 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 11-49-13 [ INFO ] User has clicked Pay Bill menu button
+Log ->>> 10-02-2023 11-49-13 [ INFO ] Payee Details are entered
+Log ->>> 10-02-2023 11-49-13 [ INFO ] Bill payment was successful
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-49-19 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 11-49-29 [ INFO ] User has clicked Request Loan menu button
+Log ->>> 10-02-2023 11-49-29 [ INFO ] Loan Amount and down payment amount is entered
+Log ->>> 10-02-2023 11-49-34 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 11-49-44 [ INFO ] User has logged out
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 11-47-37 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 16-17-15 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-17-26 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-17-30 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-17-15 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 16-20-46 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-20-56 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-20-59 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-20-59 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 16-21-05 [ INFO ] User has logged out
+Log ->>> 10-02-2023 16-20-46 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-20-46 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 16-41-03 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-41-12 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-41-14 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-41-14 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 16-41-20 [ INFO ] User has logged out
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-41-23 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-41-23 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-41-28 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 16-41-38 [ INFO ] User has clicked Update profile menu button
+Log ->>> 10-02-2023 16-41-39 [ INFO ] New values are entered to update profile
+Log ->>> 10-02-2023 16-41-39 [ INFO ] Profile Updated
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-41-44 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 16-41-54 [ INFO ] User has clicked Open Account menu button
+Log ->>> 10-02-2023 16-41-54 [ INFO ] Account Type is selected
+Log ->>> 10-02-2023 16-41-54 [ INFO ] User has opened new savings account
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-41-59 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 16-42-09 [ INFO ] User has clicked Transfer Funds menu button
+Log ->>> 10-02-2023 16-42-22 [ INFO ] Transfer Amount is entered
+Log ->>> 10-02-2023 16-42-22 [ INFO ] Account is selected
+Log ->>> 10-02-2023 16-42-22 [ INFO ] Transfer Funds is Complete
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-42-27 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 16-42-37 [ INFO ] User has clicked Pay Bill menu button
+Log ->>> 10-02-2023 16-42-38 [ INFO ] Payee Details are entered
+Log ->>> 10-02-2023 16-42-38 [ INFO ] Bill payment was successful
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-42-43 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 16-42-53 [ INFO ] User has clicked Request Loan menu button
+Log ->>> 10-02-2023 16-42-54 [ INFO ] Loan Amount and down payment amount is entered
+Log ->>> 10-02-2023 16-42-54 [ INFO ] Transfer Funds is Denied
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-42-58 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 16-43-08 [ INFO ] User has logged out
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-41-03 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 16-44-43 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-44-54 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-44-57 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-44-57 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 16-46-13 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-46-27 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-46-27 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-46-27 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-46-27 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-46-27 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-46-29 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-47-44 [ INFO ] User has clicked Transfer Funds menu button
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-47-56 [ INFO ] User has logged out
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-48-18 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-48-18 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 16-46-13 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 16-55-26 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-55-36 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-55-36 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 16-55-36 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-55-38 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-55-38 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 16-55-44 [ INFO ] User has logged out
+Log ->>> 10-02-2023 16-55-26 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-55-47 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-55-47 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 16-55-26 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 16-58-54 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-58-54 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 16-59-04 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-59-05 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 16-59-07 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-59-07 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 16-58-54 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-59-21 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-59-21 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 16-58-54 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 16-59-35 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 16-59-35 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-20 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 17-00-20 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 17-00-30 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 17-00-31 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 17-00-33 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 17-00-33 [ INFO ] User has logged out
+Log ->>> 10-02-2023 17-00-20 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 17-00-36 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-36 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-37 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-37 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-39 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-39 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-40 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-40 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-42 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-42 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-43 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-43 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-45 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-45 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-47 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-47 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-49 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-49 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-50 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-00-50 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-00-20 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 17-06-52 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 17-07-05 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-07-05 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-07-05 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 17-07-08 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 17-07-12 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 17-07-12 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 17-06-52 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 17-07-57 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-41-31 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-41-43 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-41-45 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-41-45 [ INFO ] User registration was successful
+Log ->>> 10-02-2023 18-41-51 [ INFO ] User has logged out
+Log ->>> 10-02-2023 18-41-31 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 18-41-54 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-41-54 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-41-57 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-41-57 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-41-31 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 18-50-23 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-50-23 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-50-36 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-50-39 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-50-38 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-50-40 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-50-23 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 18-50-53 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-50-53 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-50-23 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 18-51-06 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-51-06 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-51-18 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-51-18 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-50-23 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 18-51-30 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-51-30 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-51-42 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-51-42 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-54-17 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-54-17 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-54-28 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-54-29 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-54-31 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-54-31 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-54-17 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 18-54-46 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-54-46 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-54-17 [ INFO ] End of Test
+
+Log ->>> 10-02-2023 18-54-49 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-54-49 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-57-51 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-58-03 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-03 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-03 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-58-06 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-57-51 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 18-57-51 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 18-58-21 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 18-58-24 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 18-58-28 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-28 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-31 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-31 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-34 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-34 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-38 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-38 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-42 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-42 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-47 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-47 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-58-51 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 18-58-51 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 18-57-51 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-00-20 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-00-32 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-00-32 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-00-32 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-00-35 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 19-00-20 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-02-37 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-02-50 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-02-50 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-02-50 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-02-54 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-02-54 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-08-58 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-09-08 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-09-08 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-09-08 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-09-10 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 19-08-58 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-11-54 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-11-55 [ INFO ] 26
+Log ->>> 10-02-2023 19-11-55 [ INFO ] 27
+Log ->>> 10-02-2023 19-12-05 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-12-05 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-12-05 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-12-07 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 19-11-54 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-19-30 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-19-32 [ INFO ] 1
+Log ->>> 10-02-2023 19-19-42 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-19-44 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 19-19-32 [ INFO ] 1
+Log ->>> 10-02-2023 19-19-48 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-19-48 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-19-30 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-20-51 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-20-52 [ INFO ] 27
+Log ->>> 10-02-2023 19-20-52 [ INFO ] 26
+Log ->>> 10-02-2023 19-21-02 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-21-02 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-21-02 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-21-04 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 19-20-51 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-24-31 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-24-32 [ INFO ] 26
+Log ->>> 10-02-2023 19-24-32 [ INFO ] 27
+Log ->>> 10-02-2023 19-24-44 [ INFO ] Username and password was entered
+Log ->>> 10-02-2023 19-24-44 [ INFO ] Login Button was clicked
+Log ->>> 10-02-2023 19-24-44 [ INFO ] Register button was clicked
+Log ->>> 10-02-2023 19-24-46 [ INFO ] User Values are entered
+Log ->>> 10-02-2023 19-24-31 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-32-11 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-32-12 [ INFO ] 26
+Log ->>> 10-02-2023 19-32-12 [ INFO ] 27
+Log ->>> 10-02-2023 19-32-22 [ INFO ] User is already logged In
+Log ->>> 10-02-2023 19-32-11 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-34-06 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-34-06 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-34-07 [ INFO ] 12
+Log ->>> 10-02-2023 19-34-06 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-34-06 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-41-20 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-41-20 [ INFO ] Start of new test run
+
+
+Log ->>> 10-02-2023 19-41-21 [ INFO ] 12
+Log ->>> 10-02-2023 19-41-20 [ INFO ] End of the Test Run
+
+
+Log ->>> 10-02-2023 19-41-20 [ INFO ] End of the Test Run
+
+
