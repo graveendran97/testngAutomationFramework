@@ -1,0 +1,4 @@
+[32mINFO    [0m test_login:test_e2e.py:51 Entered Login Page
+[32mINFO    [0m test_login:test_e2e.py:56 Login Successful
+[32mINFO    [0m test_login:test_e2e.py:63 assert '' == 'Welcome hello206'
+  - Welcome hello206

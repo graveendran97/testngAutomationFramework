@@ -1,0 +1,2 @@
+[32mINFO    [0m test_send_message:test_e2e.py:138 Contact tab was clicked
+[32mINFO    [0m test_send_message:test_e2e.py:145 Message was sent from contact tab

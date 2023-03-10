@@ -1,0 +1,5 @@
+[32mINFO    [0m test_add_to_cart:test_e2e.py:76 Phone Added to cart
+[32mINFO    [0m test_add_to_cart:test_e2e.py:84 Laptop Added to cart
+[32mINFO    [0m test_add_to_cart:test_e2e.py:92 Monitor Added to cart
+[32mINFO    [0m test_add_to_cart:test_e2e.py:97 Cart Page is visible
+[32mINFO    [0m test_add_to_cart:test_e2e.py:100 1 product was removed from cart

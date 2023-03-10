@@ -1,0 +1,2 @@
+[32mINFO    [0m test_login:test_e2e.py:48 Entered Login Page
+[32mINFO    [0m test_login:test_e2e.py:53 Login Successful

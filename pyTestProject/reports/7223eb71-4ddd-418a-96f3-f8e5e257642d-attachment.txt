@@ -1,0 +1,4 @@
+[32mINFO    [0m test_signup:test_e2e.py:22 Clicked Signup Page
+[32mINFO    [0m test_signup:test_e2e.py:30 check alert message
+[32mINFO    [0m test_signup:test_e2e.py:33 This user already exist.
+[32mINFO    [0m test_signup:test_e2e.py:36 Signup Complete

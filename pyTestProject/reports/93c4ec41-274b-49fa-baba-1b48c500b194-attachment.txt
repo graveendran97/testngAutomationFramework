@@ -1,0 +1,2 @@
+[32mINFO    [0m test_place_order:test_e2e.py:113 place order was clicked
+[32mINFO    [0m test_place_order:test_e2e.py:123 purchase is confirmed

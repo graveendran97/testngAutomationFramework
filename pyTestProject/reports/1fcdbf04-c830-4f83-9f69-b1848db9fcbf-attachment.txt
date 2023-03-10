@@ -1,0 +1,25 @@
+[32mINFO    [0m test_send_message:test_e2e.py:159 Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=110.0.5481.178)
+Stacktrace:
+Backtrace:
+	(No symbol) [0x010B37D3]
+	(No symbol) [0x01048B81]
+	(No symbol) [0x00F4B36D]
+	(No symbol) [0x00F2E5DA]
+	(No symbol) [0x00F9F0CB]
+	(No symbol) [0x00FB0A56]
+	(No symbol) [0x00F9B216]
+	(No symbol) [0x00F70D97]
+	(No symbol) [0x00F7253D]
+	GetHandleVerifier [0x0132ABF2+2510930]
+	GetHandleVerifier [0x01358EC1+2700065]
+	GetHandleVerifier [0x0135C86C+2714828]
+	GetHandleVerifier [0x01163480+645344]
+	(No symbol) [0x01050FD2]
+	(No symbol) [0x01056C68]
+	(No symbol) [0x01056D4B]
+	(No symbol) [0x01060D6B]
+	BaseThreadInitThunk [0x75B300F9+25]
+	RtlGetAppContainerNamedObjectPath [0x76FA7BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x76FA7B8E+238]

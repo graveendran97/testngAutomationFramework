@@ -1,0 +1,2 @@
+[32mINFO    [0m test_signup:test_e2e.py:22 Clicked Signup Page
+[32mINFO    [0m test_signup:test_e2e.py:40 'str' object is not callable
